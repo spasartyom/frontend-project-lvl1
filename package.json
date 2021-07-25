@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "hexlet frontend project 1",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,8 @@
   "homepage": "https://github.com/spasartyom/frontend-project-lvl1#readme",
   "type": "module",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
